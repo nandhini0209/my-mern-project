@@ -203,3 +203,7 @@ The frontend will run on `http://localhost:5173`.
 ## License
 
 This project is for educational purposes.
+# Document
+https://docs.google.com/document/d/1yCzo3BdN7fwPjSWmLsO_bAANCtzZQUDu/edit?usp=drive_link&ouid=116180054408580645651&rtpof=true&sd=true
+# Demolink
+https://drive.google.com/file/d/1m8-rTi_svbDed_hxEsZCcJUMiYwkXyrx/view?usp=drive_link
